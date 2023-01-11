@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bethehero",
+    "slug": "bethehero",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
